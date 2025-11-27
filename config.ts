@@ -45,9 +45,9 @@ export const config = {
     { name: 'Mail', url: 'https://mail.proton.me', icon: 'mail' },
     { name: 'Drive', url: 'https://drive.proton.me', icon: 'drive' },
     { name: 'Movies', url: 'http://movieboxpro.app', icon: 'film' },
-    { name: 'DockFlare', url: 'https://dockflare.thenas.us', icon: 'x' },
+    { name: 'NAS', url: 'https://thenas.us', icon: 'x' },
     { name: 'Feather', url: 'https://feather.thenas.us', icon: 'x' },
-    { name: 'Arcane', url: 'https://arcane.thenas.us', icon: 'x' },
+    { name: 'Hub', url: 'https://hub.thenas.us', icon: 'x' },
   ],
 
   // Link Behavior
