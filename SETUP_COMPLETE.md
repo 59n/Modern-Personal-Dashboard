@@ -109,7 +109,7 @@ netlify deploy --prod
 
 ## ✨ Features
 
-- ✅ **Next.js 14** with App Router
+- ✅ **Next.js 16** with App Router
 - ✅ **TypeScript** for type safety
 - ✅ **Static Export** for maximum performance
 - ✅ **Fully Responsive** design
@@ -157,9 +157,9 @@ Edit `/components/ProfileCard.tsx` and change the href attributes in the social 
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 14.2.15
-- **Language**: TypeScript 5
-- **Runtime**: React 18
+- **Framework**: Next.js 16.0.7
+- **Language**: TypeScript 5.7
+- **Runtime**: React 19.2.1
 - **Styling**: Custom CSS
 - **Deployment**: Netlify
 - **Build**: Static Site Generation (SSG)

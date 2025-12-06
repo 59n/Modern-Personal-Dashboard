@@ -1,10 +1,10 @@
 # Personal Dashboard / Startpage
 
-A modern, minimal personal dashboard built with **Next.js 14**, featuring real-time stats, customizable links, and a clean design. Fully customizable through a single config file.
+A modern, minimal personal dashboard built with **Next.js 16**, featuring real-time stats, customizable links, and a clean design. Fully customizable through a single config file.
 
-![Dashboard Preview](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)
+![Dashboard Preview](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)
 
 ## ✨ Features
 
@@ -129,9 +129,9 @@ startpage/
 
 ## 🛠️ Built With
 
-- [Next.js 14](https://nextjs.org/) - React framework
+- [Next.js 16](https://nextjs.org/) - React framework
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
-- [React 18](https://react.dev/) - UI library
+- [React 19](https://react.dev/) - UI library
 - CSS Variables - Dynamic theming
 
 ## 📝 Available Icons
